@@ -1,7 +1,3 @@
-# thananes.github.io
-primer sitio
+# Soy jonatan
 
-
-Mi primera modificacion
-
-una linea nueva desde casa
+Administrador de sistemas en red
