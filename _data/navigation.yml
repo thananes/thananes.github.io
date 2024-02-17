@@ -8,12 +8,12 @@ main:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "External Link"
-    url: https://google.com
+  - title: "pagina2"
+    url: /pagina2/
+  - title: "pagina3"
+    url: /pagina3/
+  - title: "json"
+    url: /paginajson/
 foo:
   - title: "home"
     url: /
@@ -24,10 +24,10 @@ foo:
         url: /child-2-page-url/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "External Link"
-    url: https://google.com
+  - title: "pagina2"
+    url: /pagina2/
+  - title: "pagina3"
+    url: /pagina3/
+  - title: "json"
+    url: /paginajson/
 
