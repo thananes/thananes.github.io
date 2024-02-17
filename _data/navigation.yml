@@ -13,7 +13,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "External Link"
-    url: https://google.com
+    url: https://google.es
 foo:
   - title: "home"
     url: /
@@ -29,5 +29,5 @@ foo:
   - title: "Tags"
     url: /tags/
   - title: "External Link"
-    url: https://google.com
+    url: https://google.es
 
