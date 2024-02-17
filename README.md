@@ -4,4 +4,4 @@ primer sitio
 
 Mi primera modificacion
 
-una liniea nueva desca la oficina
+una linea nueva desde casa
