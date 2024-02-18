@@ -1,10 +1,7 @@
 [
-    { "nombre": "Ana", "edad": 19, "sexo": "F" },
-    { "nombre": "Pedro", "edad": 32, "sexo": "M" },
-    { "nombre": "Pablo", "edad": 27, "sexo": "M" },
-    { "nombre": "Laura", "edad": 22, "sexo": "F" },
-    { "nombre": "Javier", "edad": 17, "sexo": "M" },
-    { "nombre": "Sandra", "edad": 28, "sexo": "F" },
-    { "nombre": "Mario", "edad": 24, "sexo": "M" },
-    { "nombre": "Julia", "edad": 41, "sexo": "F"}
+    { "nombre": "Python", "nivel": 5 },
+    { "nombre": "HTML", "nivel": 4 },
+    { "nombre": "MYSQL", "nivel": 5},
+    { "nombre": "CSS", "nivel": 4 },
+    { "nombre": "BASH", "nivel": 5 },
 ]
