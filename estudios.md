@@ -1,6 +1,7 @@
 ---
 title: about
 permalink: /estudios/
+layout: categories
 ---
 
 <p style="text-align: center;"># Formacion profesional</p>
