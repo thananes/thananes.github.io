@@ -1,11 +1,11 @@
 ---
 title: about
 permalink: /estudios/
-layout: simple
+layout: categories
 ---
 
 ##Formacion profesional
-ASIR IES FRANCIOS DE QUEVEDO 2024
+ASIR IES FRANCISCO DE QUEVEDO 2024
 
 Lenguajes
 {% for lenguaje in site.data.lenguajes %}
