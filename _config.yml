@@ -12,7 +12,7 @@ title: thananes.github.io
 
 defaults:
   - scope:
-      path: "assets/img"
+      path: "_images"
     values:
       image: true
     # _posts
@@ -31,16 +31,12 @@ collections:
   members:
     output: true
 
-
-
 # número de posts por página
 paginate: 2
 paginate_path: /blog/page:num/
-
-
 
 minima:
   skin: dark
 
 name: thananes.github.io
-  
+
