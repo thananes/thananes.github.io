@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.9.3'
+gem 'jekyll', '~> 4.3.3'
 gem 'jekyll-paginate' # for pagination
 gem 'github-pages', group: :jekyll_plugins # for github pages
 # gem 'minima',  github: "jekyll/minima" # for github pages
