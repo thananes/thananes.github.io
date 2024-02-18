@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Happiness, Peace, Health, Money
 - ⚡ Fun fact: Sports, Game Sports
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeeemilio&layout=compact&theme=dark)
-
-
 # Lenguajes
 
 {% for lenguaje in site.data.lenguajes %}
