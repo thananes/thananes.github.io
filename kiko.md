@@ -1,6 +1,7 @@
 ---
 title: kiko
-
+layout: page
+permalink: /kiko
 
 ---
 
