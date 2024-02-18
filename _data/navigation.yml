@@ -7,13 +7,13 @@ main:
       - title: "Child Link 2"
         url: /child-2-page-url/
   - title: "Posts"
-    url: /posts.md
+    url: /posts
   - title: "Categories"
     url: /categories/
   - title: "Tags"
-    url: /tags/
+    url: /gallery
   - title: "Members"
-    url: /members/
+    url: /about
   - title: "kiko"
     url: /kiko/
   - title: "External Link"
@@ -27,13 +27,13 @@ foo:
       - title: "Child Link 2"
         url: /child-2-page-url/
   - title: "Posts"
-    url: /posts/
+    url: /posts
   - title: "Categories"
     url: /categories/
   - title: "Tags"
-    url: /tags/
+    url: /gallery
   - title: "Members"
-    url: /members/
+    url: /about
   - title: "kiko"
     url: /kiko/
   - title: "External Link"
