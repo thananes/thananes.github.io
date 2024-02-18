@@ -16,21 +16,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeeemilio&layout=compact&theme=dark)
 
 
----
-title: members
+# Lenguajes
 
----
-
-# Members
-
-
-{% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }}
-  [ver]({{ member.url }}) 
-  {{ member.content | markdownify }}
-{% endfor %}
-
-
-{% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.edad }}
+{% for lenguaje in site.data.lenguajes %}
+  ## {{ lenguaje.nombre }} - {{ lenguaje.nivel }}
 {% endfor %}
