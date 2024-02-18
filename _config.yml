@@ -8,13 +8,8 @@ plugins:
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: Posts
 
-title: About
-
-title: Pagina 3
-
-title: Pagina 4 
+title: thananes.github.io
 
 
 defaults:
