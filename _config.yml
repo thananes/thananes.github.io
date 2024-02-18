@@ -1,5 +1,5 @@
 #theme: minimal-mistakes-jekyll
-remote_theme: "pages-themes/architect@v0.2.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
