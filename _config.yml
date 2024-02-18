@@ -12,7 +12,7 @@ title: thananes.github.io
 
 defaults:
   - scope:
-      path: "assets/img"
+      path: "_images"
     values:
       image: true
     # _posts
@@ -26,6 +26,11 @@ defaults:
       comments: true
       share: true
       related: true
+    - scope:
+      path: "/estudios/"
+      type: posts
+    values:
+      layout: single
 
 collections:
   members:
