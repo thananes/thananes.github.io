@@ -3,9 +3,10 @@ title: about
 permalink: /estudios/
 ---
 
+(_images/banner.jpg)
+
 <p style="text-align: center;"># Formacion profesional</p>
 <p style="text-align: center;">ASIR IES FRANCIOS DE QUEVEDO 2024</p>
-
 
 <p style="text-align: center;">Lenguajes</p>
 {% for lenguaje in site.data.lenguajes %}
