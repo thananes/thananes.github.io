@@ -1,14 +1,14 @@
 main:
   - title: "Posts"
-    url: /posts/
+    url: /posts.md
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Members"
-    url: /members/
+    url: /members.md
   - title: "kiko"
-    url: /kiko/
+    url: /kiko.md
   - title: "External Link"
     url: https://google.com
 foo:
