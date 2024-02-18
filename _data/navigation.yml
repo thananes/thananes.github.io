@@ -13,9 +13,9 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Members"
-    url: /members.md
+    url: /members/
   - title: "kiko"
-    url: /kiko.md
+    url: /kiko/
   - title: "External Link"
     url: https://google.com
 foo:
