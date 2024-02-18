@@ -28,7 +28,6 @@ defaults:
       related: true
     - scope:
       path: "/estudios/"
-      type: posts
     values:
       layout: single
 
