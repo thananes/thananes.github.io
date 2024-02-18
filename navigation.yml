@@ -1,32 +1,32 @@
 main:
-  - title: "home"
+  title: "home"
     url: /
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
-  - title: "Posts"
+  title: "Posts"
     url: /posts/
-  - title: "pagina2"
+  title: "pagina2"
     url: /pagina2/
-  - title: "pagina3"
+  title: "pagina3"
     url: /pagina3/
-  - title: "json"
+  title: "json"
     url: /paginajson/
 foo:
-  - title: "home"
+  title: "home"
     url: /
     children:
       - title: "Child Link 1"
         url: /child-1-page-url/
       - title: "Child Link 2"
         url: /child-2-page-url/
-  - title: "Posts"
+  title: "Posts"
     url: /posts/
-  - title: "pagina2"
+  title: "pagina2"
     url: /pagina2/
-  - title: "pagina3"
+  title: "pagina3"
     url: /pagina3/
-  - title: "json"
+  title: "json"
     url: /paginajson/
