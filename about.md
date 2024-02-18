@@ -1,6 +1,6 @@
 ---
-title: about
-permalink: /about
+title: Contacto
+permalink: /contacto/
 ---
 
 # TITULO
