@@ -5,8 +5,8 @@ main:
     url: /estudios/
   - title: "Posts"
     url: /posts/
-  - title: "Contacto"
-    url: /contacto/
+  - title: "Galeria"
+    url: /galeria/
 
 foo:
   - title: "home"
@@ -15,5 +15,5 @@ foo:
     url: /estudios/
   - title: "Posts"
     url: /posts/
-  - title: "Contacto"
-    url: /contacto/
+  - title: "Galeria"
+    url: /galeria/
