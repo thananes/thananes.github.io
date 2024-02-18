@@ -1,12 +1,3 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
-
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
-
-
 
 ### Hi there 👋
 
