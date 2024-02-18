@@ -1,7 +1,0 @@
-[
-    { "nombre": "Python", "nivel": 5 },
-    { "nombre": "HTML", "nivel": 4 },
-    { "nombre": "MYSQL", "nivel": 5},
-    { "nombre": "CSS", "nivel": 4 },
-    { "nombre": "BASH", "nivel": 5 },
-]
