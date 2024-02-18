@@ -1,5 +1,5 @@
 main:
-  - title: "home"
+  title: "home"
     url: /
     children:
       - title: "Child Link 1"
@@ -15,7 +15,7 @@ main:
   - title: "json"
     url: /paginajson/
 foo:
-  - title: "home"
+  title: "home"
     url: /
     children:
       - title: "Child Link 1"
