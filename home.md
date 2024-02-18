@@ -1,6 +1,9 @@
 ---
 title: home
 permalink: /
+
+title: home2
+permalink: /2
 ---
 
 ## Welcome to {{site.title}} {{page.title}} 
