@@ -11,3 +11,7 @@ Experiencia adquirida
 {% for lenguaje in site.data.lenguajes %}
   ## {{ lenguaje.nombre }} - Nivel adquirido: {{ lenguaje.nivel }}
 {% endfor %}
+
+
+
+
