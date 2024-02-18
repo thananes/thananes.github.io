@@ -1,7 +1,7 @@
 ---
 title: about
 permalink: /estudios/
-layout: posts
+layout: default
 ---
 
 ##Formacion profesional
