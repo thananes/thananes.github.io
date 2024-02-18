@@ -1,7 +1,3 @@
-{% for navi in site.navigation %}
-  # {{ navi.title }} - {{ navi.url }}
-{% endfor %}
-
 
 ### Hi there 👋
 
@@ -17,7 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Happiness, Peace, Health, Money
 - ⚡ Fun fact: Sports, Game Sports
-
-# Lenguajes
-
-
