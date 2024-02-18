@@ -3,11 +3,10 @@ title: about
 permalink: /estudios/
 ---
 
+<p style="text-align: center;">(https://thananes.github.io/_images/banner.jpg)</p>
+
 <p style="text-align: center;">
-
-![Descripción de la imagen](_images/banner.jpg)
-
-
+  
 # Formacion profesional
 ASIR IES FRANCIOS DE QUEVEDO 2024
 
