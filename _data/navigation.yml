@@ -3,11 +3,11 @@ main:
     url: /
   - title: "Estudios"
     url: /estudios
-  - title: "Lenguajes"
-    url: /lenguajes
   - title: "Portafolio"
     url: /portafolio
-  - title: "About"
+  - title: "Blog"
+    url: /blog
+  - title: "Contacto"
     url: /Contacto
 
 foo:
@@ -15,9 +15,9 @@ foo:
     url: /
   - title: "Estudios"
     url: /estudios
-  - title: "Lenguajes"
-    url: /lenguajes
   - title: "Portafolio"
     url: /portafolio
-  - title: "About"
+  - title: "Blog"
+    url: /blog
+  - title: "Contacto"
     url: /Contacto
