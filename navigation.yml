@@ -1,6 +1,6 @@
 
-title: "PAGE-TITLE"
-url: /URL-PATH
+- title: "PAGE-TITLE"
+  url: /URL-PATH
 
-title: "PAGE-TITLE2"
-url: /URL-PATH
+- title: "PAGE-TITLE2"
+  url: /URL-PATH
