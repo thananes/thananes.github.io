@@ -3,7 +3,9 @@ title: about
 permalink: /estudios/
 ---
 
-![Descripción de la imagen](/images/banner.jpg)
+<div style="text-align: center;">
+
+![Descripción de la imagen](/banner.jpg)
 
 
 # Formacion profesional
@@ -13,3 +15,5 @@ Lenguajes
 {% for lenguaje in site.data.lenguajes %}
   ## {{ lenguaje.nombre }} - Nivel adquirido: {{ lenguaje.nivel }}
 {% endfor %}
+
+</div>
