@@ -26,25 +26,17 @@ defaults:
       comments: true
       share: true
       related: true
-    - scope:
-      path: "/estudios/"
-    values:
-      layout: single
 
 collections:
   members:
     output: true
 
-
-
 # número de posts por página
 paginate: 2
 paginate_path: /blog/page:num/
-
-
 
 minima:
   skin: dark
 
 name: thananes.github.io
-  
+
