@@ -3,8 +3,6 @@ main:
     url: /
   - title: "Estudios"
     url: /estudios/
-  - title: "Portafolio"
-    url: /portafolio/
   - title: "Posts"
     url: /posts/
   - title: "Contacto"
@@ -15,8 +13,6 @@ foo:
     url: /
   - title: "Estudios"
     url: /estudios/
-  - title: "Portafolio"
-    url: /portafolio/
   - title: "Posts"
     url: /posts/
   - title: "Contacto"
