@@ -1,11 +1,23 @@
 main:
   - title: "home"
     url: /
+  - title: "Estudios"
+    url: /estudios
+  - title: "Lenguajes"
+    url: /lenguajes
+  - title: "Portafolio"
+    url: /portafolio
   - title: "About"
-    url: /about
+    url: /Contacto
 
 foo:
   - title: "home"
     url: /
+  - title: "Estudios"
+    url: /estudios
+  - title: "Lenguajes"
+    url: /lenguajes
+  - title: "Portafolio"
+    url: /portafolio
   - title: "About"
-    url: /about
+    url: /Contacto
