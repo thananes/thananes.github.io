@@ -1,13 +1,13 @@
 ---
 title: about
 permalink: /estudios/
-layout: categories
+layout: posts
 ---
 
-<p style="text-align: center;"><h1>##Formacion profesional</h1></p>
-<p style="text-align: center;">ASIR IES FRANCIOS DE QUEVEDO 2024</p>
+##Formacion profesional
+ASIR IES FRANCIOS DE QUEVEDO 2024
 
-<p style="text-align: center;">Lenguajes</p>
+Lenguajes
 {% for lenguaje in site.data.lenguajes %}
-  <p style="text-align: center;">## {{ lenguaje.nombre }} - Nivel adquirido: {{ lenguaje.nivel }}</p>
+  ## {{ lenguaje.nombre }} - Nivel adquirido: {{ lenguaje.nivel }}
 {% endfor %}
