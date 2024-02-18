@@ -5,7 +5,7 @@ permalink: /estudios/
 
 <div style="text-align: center;">
 
-![Descripción de la imagen](/_images/banner.jpg)
+![Descripción de la imagen](_images/banner.jpg)
 
 
 # Formacion profesional
