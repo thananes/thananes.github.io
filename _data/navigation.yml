@@ -15,7 +15,7 @@ main:
   - title: "Members"
     url: /about
   - title: "kiko"
-    url: /kiko/
+    url: /kiko
   - title: "External Link"
     url: https://google.com
 foo:
@@ -35,7 +35,7 @@ foo:
   - title: "Members"
     url: /about
   - title: "kiko"
-    url: /kiko/
+    url: /kiko
   - title: "External Link"
     url: https://google.com
 
