@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 # Lenguajes
 
 {% for lenguaje in site.data.lenguajes %}
-  ## {{ lenguaje.nombre }} - {{ lenguaje.nivel }}
+  # {{ lenguaje.nombre }} - {{ lenguaje.nivel }}
 {% endfor %}
