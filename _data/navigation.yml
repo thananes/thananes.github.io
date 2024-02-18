@@ -2,22 +2,22 @@ main:
   - title: "home"
     url: /
   - title: "Estudios"
-    url: /estudios
+    url: /estudios/
   - title: "Portafolio"
-    url: /portafolio
+    url: /portafolio/
   - title: "Posts"
     url: /posts/
   - title: "Contacto"
-    url: /Contacto
+    url: /contacto/
 
 foo:
   - title: "home"
     url: /
   - title: "Estudios"
-    url: /estudios
+    url: /estudios/
   - title: "Portafolio"
-    url: /portafolio
+    url: /portafolio/
   - title: "Posts"
     url: /posts/
   - title: "Contacto"
-    url: /Contacto
+    url: /contacto/
